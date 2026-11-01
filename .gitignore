@@ -1,0 +1,41 @@
+# Model weights and checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+models/
+
+# Datasets, environments and runtime output
+data/
+envs/
+runs/
+cache/
+logs/
+/videos/
+*.mp4
+*.png
+*.jpg
+!results/videos/
+!results/videos/*.mp4
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local config and scratch
+env.sh
+_server/
+_build/
+
+# Archives, papers and slides
+*.zip
+*.pdf
+*.pptx
+
+# OS / editor
+.DS_Store
+Thumbs.db

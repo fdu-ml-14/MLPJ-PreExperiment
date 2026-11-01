@@ -1,0 +1,9 @@
+model,backend,task,action_step,successes,episodes,success_rate,wilson_low,wilson_high,mean_steps,mean_inference_calls,mean_inference_sec,mean_elapsed_sec
+pi0_base,cuda-torch,widowx_spoon_on_towel,1,0,10,0.0,0.0,0.2775,60.0,60.0,0.1919,15.0
+pi0_base,cuda-torch,widowx_spoon_on_towel,4,0,10,0.0,0.0,0.2775,60.0,15.0,0.1726,5.74
+pi0_base,cuda-torch,widowx_put_eggplant_in_basket,1,0,10,0.0,0.0,0.2775,60.0,60.0,0.1837,14.14
+pi0_base,cuda-torch,widowx_put_eggplant_in_basket,4,0,10,0.0,0.0,0.2775,60.0,15.0,0.1869,6.02
+pi0_base,cuda-torch,widowx_carrot_on_plate,1,0,10,0.0,0.0,0.2775,60.0,60.0,0.1754,13.7
+pi0_base,cuda-torch,widowx_carrot_on_plate,4,0,10,0.0,0.0,0.2775,60.0,15.0,0.1892,6.21
+pi0_base,cuda-torch,widowx_stack_cube,1,0,10,0.0,0.0,0.2775,60.0,60.0,0.1865,14.36
+pi0_base,cuda-torch,widowx_stack_cube,4,0,10,0.0,0.0,0.2775,60.0,15.0,0.178,5.86

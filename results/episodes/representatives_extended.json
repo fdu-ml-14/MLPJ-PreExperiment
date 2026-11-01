@@ -1,0 +1,114 @@
+[
+  {
+    "model": "pi0_bridge",
+    "task": "widowx_spoon_on_towel",
+    "action_step": 1,
+    "episode_id": 2,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "pi0_bridge",
+    "task": "widowx_spoon_on_towel",
+    "action_step": 4,
+    "episode_id": 0,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "pi0_bridge",
+    "task": "widowx_put_eggplant_in_basket",
+    "action_step": 1,
+    "episode_id": 5,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "pi0_bridge",
+    "task": "widowx_put_eggplant_in_basket",
+    "action_step": 4,
+    "episode_id": 0,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "pi0_bridge",
+    "task": "widowx_carrot_on_plate",
+    "action_step": 1,
+    "episode_id": 0,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "pi0_bridge",
+    "task": "widowx_carrot_on_plate",
+    "action_step": 4,
+    "episode_id": 2,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "pi0_bridge",
+    "task": "widowx_stack_cube",
+    "action_step": 1,
+    "episode_id": 3,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "pi0_bridge",
+    "task": "widowx_stack_cube",
+    "action_step": 4,
+    "episode_id": 1,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "spatialvla_bridge",
+    "task": "widowx_spoon_on_towel",
+    "action_step": 1,
+    "episode_id": 0,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "spatialvla_bridge",
+    "task": "widowx_spoon_on_towel",
+    "action_step": 4,
+    "episode_id": 0,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "spatialvla_bridge",
+    "task": "widowx_put_eggplant_in_basket",
+    "action_step": 1,
+    "episode_id": 0,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "spatialvla_bridge",
+    "task": "widowx_put_eggplant_in_basket",
+    "action_step": 4,
+    "episode_id": 0,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "octo_base",
+    "task": "widowx_spoon_on_towel",
+    "action_step": 1,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0"
+  },
+  {
+    "model": "octo_base",
+    "task": "widowx_spoon_on_towel",
+    "action_step": 4,
+    "episode_id": 5,
+    "selected_because": "first_success"
+  },
+  {
+    "model": "octo_base",
+    "task": "widowx_put_eggplant_in_basket",
+    "action_step": 1,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0"
+  },
+  {
+    "model": "octo_base",
+    "task": "widowx_put_eggplant_in_basket",
+    "action_step": 4,
+    "episode_id": 0,
+    "selected_because": "first_success"
+  }
+]

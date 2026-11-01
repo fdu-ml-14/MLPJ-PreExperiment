@@ -1,0 +1,74 @@
+[
+  {
+    "model": "pi0_base",
+    "task": "widowx_spoon_on_towel",
+    "action_step": 1,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0",
+    "video_path": "runs/pi0_base_20261023/videos/pi0_base_widowx_spoon_on_towel_a1_ep0_20261023_150444.mp4",
+    "final_frame_path": "runs/pi0_base_20261023/final_frames/pi0_base_widowx_spoon_on_towel_a1_ep0_20261023_150444_final.png"
+  },
+  {
+    "model": "pi0_base",
+    "task": "widowx_spoon_on_towel",
+    "action_step": 4,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0",
+    "video_path": "runs/pi0_base_20261023/videos/pi0_base_widowx_spoon_on_towel_a4_ep0_20261023_150716.mp4",
+    "final_frame_path": "runs/pi0_base_20261023/final_frames/pi0_base_widowx_spoon_on_towel_a4_ep0_20261023_150716_final.png"
+  },
+  {
+    "model": "pi0_base",
+    "task": "widowx_put_eggplant_in_basket",
+    "action_step": 1,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0",
+    "video_path": "runs/pi0_base_20261023/videos/pi0_base_widowx_put_eggplant_in_basket_a1_ep0_20261023_151503.mp4",
+    "final_frame_path": "runs/pi0_base_20261023/final_frames/pi0_base_widowx_put_eggplant_in_basket_a1_ep0_20261023_151503_final.png"
+  },
+  {
+    "model": "pi0_base",
+    "task": "widowx_put_eggplant_in_basket",
+    "action_step": 4,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0",
+    "video_path": "runs/pi0_base_20261023/videos/pi0_base_widowx_put_eggplant_in_basket_a4_ep0_20261023_151725.mp4",
+    "final_frame_path": "runs/pi0_base_20261023/final_frames/pi0_base_widowx_put_eggplant_in_basket_a4_ep0_20261023_151725_final.png"
+  },
+  {
+    "model": "pi0_base",
+    "task": "widowx_carrot_on_plate",
+    "action_step": 1,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0",
+    "video_path": "runs/pi0_base_20261023/videos/pi0_base_widowx_carrot_on_plate_a1_ep0_20261023_150816.mp4",
+    "final_frame_path": "runs/pi0_base_20261023/final_frames/pi0_base_widowx_carrot_on_plate_a1_ep0_20261023_150816_final.png"
+  },
+  {
+    "model": "pi0_base",
+    "task": "widowx_carrot_on_plate",
+    "action_step": 4,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0",
+    "video_path": "runs/pi0_base_20261023/videos/pi0_base_widowx_carrot_on_plate_a4_ep0_20261023_151034.mp4",
+    "final_frame_path": "runs/pi0_base_20261023/final_frames/pi0_base_widowx_carrot_on_plate_a4_ep0_20261023_151034_final.png"
+  },
+  {
+    "model": "pi0_base",
+    "task": "widowx_stack_cube",
+    "action_step": 1,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0",
+    "video_path": "runs/pi0_base_20261023/videos/pi0_base_widowx_stack_cube_a1_ep0_20261023_151137.mp4",
+    "final_frame_path": "runs/pi0_base_20261023/final_frames/pi0_base_widowx_stack_cube_a1_ep0_20261023_151137_final.png"
+  },
+  {
+    "model": "pi0_base",
+    "task": "widowx_stack_cube",
+    "action_step": 4,
+    "episode_id": 0,
+    "selected_because": "fallback_episode_0",
+    "video_path": "runs/pi0_base_20261023/videos/pi0_base_widowx_stack_cube_a4_ep0_20261023_151402.mp4",
+    "final_frame_path": "runs/pi0_base_20261023/final_frames/pi0_base_widowx_stack_cube_a4_ep0_20261023_151402_final.png"
+  }
+]

@@ -1,0 +1,22 @@
+--- a/lerobot/common/policies/pi0/modeling_pi0.py
++++ b/lerobot/common/policies/pi0/modeling_pi0.py
+@@ -50,6 +50,7 @@
+ """
+ 
+ import math
++import os
+ from collections import deque
+ 
+ import torch
+@@ -248,7 +249,10 @@
+             config.output_features, config.normalization_mapping, dataset_stats
+         )
+ 
+-        self.language_tokenizer = AutoTokenizer.from_pretrained("google/paligemma-3b-pt-224")
++        tokenizer_path = os.environ.get(
++            "PALIGEMMA_TOKENIZER_PATH", "google/paligemma-3b-pt-224"
++        )
++        self.language_tokenizer = AutoTokenizer.from_pretrained(tokenizer_path)
+         self.model = PI0FlowMatching(config)
+ 
+         self.reset()
